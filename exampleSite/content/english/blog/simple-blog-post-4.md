@@ -1,5 +1,5 @@
 ---
-title: Simple Blog Post
+title: Restomod Mustang
 date: 2018-09-12T06:52:36.000+00:00
 image_webp: "/images/Mustang1 2.jpeg"
 image: images/blog/blog-post-3.jpg
